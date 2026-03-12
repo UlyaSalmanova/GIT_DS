@@ -1,0 +1,4 @@
+{
+    "python.analysis.supportAllPythonDocuments": false,
+    "editor.defaultFormatter": "ms-python.vscode-pylance"
+}
