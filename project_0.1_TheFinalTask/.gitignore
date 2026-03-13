@@ -1,0 +1,11 @@
+# Игнорируем служебные файлы VS Code
+.vscode/
+
+# Игнорируем кэш Python
+__pycache__/
+*.pyc
+
+# Игнорируем CSV файлы
+*.csv
+*.xlsx
+data/
